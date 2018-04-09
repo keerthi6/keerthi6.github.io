@@ -306,14 +306,12 @@ ul.list-check li::before {
 
 
 #home {
-	background: url(../images/home2.jpg) no-repeat center center fixed;
+	background: url(../images/home2.jpg) no-repeat center center;
 	no-repeat fixed center center transparent;
 	-webkit-background-size: 1920px 960px;
 	-moz-background-size :cover;
 	background-size: cover;
-	height:100vh;
-	box-sizing:border-box;
-	overflow-y:hidden;
+	background
 }
 #home:before {
 	content: "";
