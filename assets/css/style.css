@@ -307,8 +307,7 @@ ul.list-check li::before {
 
 #home {
 	background: url(../images/home2.jpg) no-repeat center center;
-	-webkit-background-attachment: fixed;
-    background-attachment: fixed;
+
 	background-color: transparent;
 	background-size: cover;
 	padding: 0;
