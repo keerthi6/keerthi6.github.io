@@ -306,7 +306,7 @@ ul.list-check li::before {
 
 
 #home {
-	background: url(../images/home2.jpg) no-repeat center center;
+	background: url(../images/home2.jpg) no-repeat center center fixed;
 	no-repeat fixed center center transparent;
 	-webkit-background-size: 1920px 960px;
 	-moz-background-size :cover;
